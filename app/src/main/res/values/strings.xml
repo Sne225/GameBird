@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Birdie Dash</string>
+    <string name="game_accessibility_description">Birdie Dash game. Drag the bird up and down to collect cupcakes and avoid Pugicorns.</string>
+    <string name="hud_score">SCORE %1$03d</string>
+    <string name="hud_time">%1$ds</string>
+    <string name="title_ready">BIRDIE DASH</string>
+    <string name="subtitle_ready">Catch cupcakes. Dodge Pugicorns.</string>
+    <string name="instructions_ready">Drag anywhere to move Birdie up and down.</string>
+    <string name="tap_to_play">TAP TO PLAY</string>
+    <string name="title_paused">PAUSED</string>
+    <string name="subtitle_paused">Your adventure is waiting.</string>
+    <string name="tap_to_resume">TAP TO RESUME</string>
+    <string name="title_time_up">TIME\'S UP!</string>
+    <string name="title_game_over">GAME OVER</string>
+    <string name="result_score">Score: %1$d</string>
+    <string name="result_best">Best: %1$d</string>
+    <string name="tap_to_restart">TAP TO PLAY AGAIN</string>
+    <string name="bottom_hint">DRAG TO FLY</string>
+    <string name="feedback_plus_ten">+10!</string>
+    <string name="feedback_ouch">OUCH! -1 LIFE</string>
+</resources>

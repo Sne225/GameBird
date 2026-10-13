@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="sky_top">#75D9EA</color>
+    <color name="sky_bottom">#E6F9F7</color>
+    <color name="deep_navy">#17334E</color>
+    <color name="mint">#65D7BB</color>
+    <color name="soft_cream">#FFFBEF</color>
+</resources>
